@@ -1,7 +1,7 @@
 tAPIbot - BTC-E Automated Trade Platform in Python
 =======
 Python 2.7 
-Pylab or compatible equivalent required for graph output. 
+Pylab or compatible equivalent required for graph output. .
 
 To Run
 ========
